@@ -1,0 +1,20 @@
+{
+  "name": "managersystem",
+  "version": "1.0.0",
+  "description": "管理系统",
+  "main": "app.js",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "express": "^4.13.3",
+    "gm": "^1.20.0",
+    "express-session": "^1.11.3",
+    "ejs": "^2.3.4",
+    "mongoose": "^4.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
